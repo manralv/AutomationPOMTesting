@@ -2,15 +2,16 @@ package testCases;
 
 import org.testng.annotations.Test;
 
-public class TestGuru99Login_Positive extends BaseTestClass {
-	@Test(description = "This TC will perform valid login")
+public class TestGuru99Login_Negative extends BaseTestClass {
+
+	@Test(description = "This TC will perform invalid login")
 	public void enterUserName() throws Throwable {
 		objLogin.setUserName("mngr373874");
 	}
 
 	@Test(dependsOnMethods = "enterUserName")
 	public void enterPassword() throws Throwable {
-		objLogin.setPassword("qEvAdYb");
+		objLogin.setPassword("qEvAdYbs");
 	}
 
 	@Test(dependsOnMethods = "enterPassword")
@@ -20,13 +21,14 @@ public class TestGuru99Login_Positive extends BaseTestClass {
 
 	@Test(dependsOnMethods = "clickLoginButton")
 	public void fetchPageTitle() throws Throwable {
-		System.out.println("Page Title > '" + objLogin.getLoginTitle()+ "'");
+		System.out.println("Page Title > '" + objLogin.getLoginTitle() + "'");
 		Thread.sleep(5000);
 	}
-	
+
 	@Test(dependsOnMethods = "fetchPageTitle")
 	public void checkLoggedUser() throws Throwable {
-		System.out.println("User logged in as - '" + objHomePage.getUserName()+ "'");
+		System.out.println("User logged in as - '" + objHomePage.getUserName() + "'");
 		Thread.sleep(5000);
 	}
+
 }
