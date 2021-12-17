@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" parallel="false">
+
+	<parameter name="browser" value="chrome" />
+	<listeners>
+		<listener class-name="testReport.TestListener" />
+	</listeners>
+
+	<test name="TC_1_Login_Incorrect">
+		<classes>
+			<class name="testCases.TestGuru99Login_Negative" />
+		</classes>
+	</test>
+	<test name="TC_2_Login_Correct">
+		<classes>
+			<class name="testCases.TestGuru99Login_Positive" />
+		</classes>
+	</test>
+
+</suite>
+<!-- http://demo.guru99.com/V4/ -->

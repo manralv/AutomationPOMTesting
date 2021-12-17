@@ -1,0 +1,119 @@
+2021-12-13 23:12:27 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-13 23:12:33 DEBUG TestListener:25 - ******** Running Test Method loginToApplication ********
+2021-12-13 23:12:34 DEBUG TestListener:37 - ******** Test Execution > loginToApplication > FAIL ********
+2021-12-13 23:12:35 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-13 23:12:35 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-13 23:12:40 DEBUG TestListener:25 - ******** Running Test Method loginToApplication ********
+2021-12-13 23:12:46 DEBUG TestListener:31 - ******** Test Execution > loginToApplication > PASS ********
+2021-12-13 23:12:51 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-13 23:14:25 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-13 23:14:30 DEBUG TestListener:25 - ******** Running Test Method loginToApplication ********
+2021-12-13 23:14:31 DEBUG TestListener:37 - ******** Test Execution > loginToApplication > FAIL ********
+2021-12-13 23:14:32 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-13 23:14:32 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-13 23:14:37 DEBUG TestListener:25 - ******** Running Test Method loginToApplication ********
+2021-12-13 23:14:43 DEBUG TestListener:31 - ******** Test Execution > loginToApplication > PASS ********
+2021-12-13 23:14:44 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-14 21:22:49 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-14 21:22:57 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-14 21:22:57 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-14 21:22:57 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-14 21:22:57 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-14 21:22:57 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-14 21:22:58 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-14 21:22:58 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-14 21:22:58 DEBUG TestListener:37 - ******** Test Execution > fetchPageTitle > FAIL ********
+2021-12-14 21:22:59 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-14 21:22:59 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-14 21:23:05 DEBUG TestListener:25 - ******** Running Test Method loginToApplication ********
+2021-12-14 21:23:13 DEBUG TestListener:31 - ******** Test Execution > loginToApplication > PASS ********
+2021-12-14 21:23:14 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-14 21:35:25 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-14 21:35:33 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-14 21:35:33 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-14 21:35:33 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-14 21:35:34 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-14 21:35:34 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-14 21:35:34 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-14 21:35:34 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-14 21:35:34 DEBUG TestListener:37 - ******** Test Execution > fetchPageTitle > FAIL ********
+2021-12-14 21:35:35 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-14 21:35:35 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-14 21:35:41 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-14 21:35:41 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-14 21:35:41 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-14 21:35:42 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-14 21:35:42 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-14 21:35:43 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-14 21:35:43 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-14 21:35:48 DEBUG TestListener:31 - ******** Test Execution > fetchPageTitle > PASS ********
+2021-12-14 21:35:49 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-14 21:41:30 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-14 21:41:37 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-14 21:41:37 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-14 21:41:37 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-14 21:41:37 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-14 21:41:37 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-14 21:41:38 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-14 21:41:38 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-14 21:41:38 DEBUG TestListener:37 - ******** Test Execution > fetchPageTitle > FAIL ********
+2021-12-14 21:41:38 DEBUG TestListener:43 - ******** Test Execution > checkLoggedUser > SKIP ********
+2021-12-14 21:41:39 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-14 21:41:39 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-14 21:41:45 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-14 21:41:45 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-14 21:41:45 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-14 21:41:45 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-14 21:41:45 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-14 21:41:47 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-14 21:41:47 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-14 21:41:52 DEBUG TestListener:31 - ******** Test Execution > fetchPageTitle > PASS ********
+2021-12-14 21:41:52 DEBUG TestListener:25 - ******** Running Test Method checkLoggedUser ********
+2021-12-14 21:41:57 DEBUG TestListener:31 - ******** Test Execution > checkLoggedUser > PASS ********
+2021-12-14 21:41:58 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-17 13:31:52 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-17 13:32:00 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-17 13:32:00 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-17 13:32:00 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-17 13:32:00 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-17 13:32:00 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-17 13:32:01 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-17 13:32:01 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-17 13:32:01 DEBUG TestListener:37 - ******** Test Execution > fetchPageTitle > FAIL ********
+2021-12-17 13:32:01 DEBUG TestListener:43 - ******** Test Execution > checkLoggedUser > SKIP ********
+2021-12-17 13:32:01 DEBUG TestListener:55 - ******** TEST SUITE TC_1_Login_Incorrect ENDED ********
+2021-12-17 13:32:01 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-17 13:32:06 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-17 13:32:06 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-17 13:32:06 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-17 13:32:06 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-17 13:32:06 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-17 13:32:07 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-17 13:32:07 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-17 13:32:12 DEBUG TestListener:31 - ******** Test Execution > fetchPageTitle > PASS ********
+2021-12-17 13:32:12 DEBUG TestListener:25 - ******** Running Test Method checkLoggedUser ********
+2021-12-17 13:32:18 DEBUG TestListener:31 - ******** Test Execution > checkLoggedUser > PASS ********
+2021-12-17 13:32:18 DEBUG TestListener:55 - ******** TEST SUITE TC_2_Login_Correct ENDED ********
+2021-12-17 13:46:49 DEBUG TestListener:19 - ******** TEST CASE TC_1_Login_Incorrect STARTED ********
+2021-12-17 13:46:55 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-17 13:46:55 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-17 13:46:55 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-17 13:46:55 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-17 13:46:55 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-17 13:46:55 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-17 13:46:55 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-17 13:46:56 DEBUG TestListener:37 - ******** Test Execution > fetchPageTitle > FAIL ********
+2021-12-17 13:46:56 DEBUG TestListener:43 - ******** Test Execution > checkLoggedUser > SKIP ********
+2021-12-17 13:46:56 DEBUG TestListener:55 - ******** TEST CASE TC_1_Login_Incorrect ENDED ********
+2021-12-17 13:46:56 DEBUG TestListener:19 - ******** TEST CASE TC_2_Login_Correct STARTED ********
+2021-12-17 13:47:01 DEBUG TestListener:25 - ******** Running Test Method enterUserName ********
+2021-12-17 13:47:01 DEBUG TestListener:31 - ******** Test Execution > enterUserName > PASS ********
+2021-12-17 13:47:01 DEBUG TestListener:25 - ******** Running Test Method enterPassword ********
+2021-12-17 13:47:01 DEBUG TestListener:31 - ******** Test Execution > enterPassword > PASS ********
+2021-12-17 13:47:01 DEBUG TestListener:25 - ******** Running Test Method clickLoginButton ********
+2021-12-17 13:47:03 DEBUG TestListener:31 - ******** Test Execution > clickLoginButton > PASS ********
+2021-12-17 13:47:03 DEBUG TestListener:25 - ******** Running Test Method fetchPageTitle ********
+2021-12-17 13:47:08 DEBUG TestListener:31 - ******** Test Execution > fetchPageTitle > PASS ********
+2021-12-17 13:47:08 DEBUG TestListener:25 - ******** Running Test Method checkLoggedUser ********
+2021-12-17 13:47:13 DEBUG TestListener:31 - ******** Test Execution > checkLoggedUser > PASS ********
+2021-12-17 13:47:13 DEBUG TestListener:55 - ******** TEST CASE TC_2_Login_Correct ENDED ********
